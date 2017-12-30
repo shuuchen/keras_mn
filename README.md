@@ -1,6 +1,8 @@
 # keras_mn
 Memory networks are used for automatic question answering.
 
+The model is trained using story, question, answer triplets and tested using story, question to predict the answer.
+
 ## Requirements
 * nltk==3.2.3
 * matplotlib==2.0.2
