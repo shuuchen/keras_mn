@@ -1,5 +1,5 @@
-# keras_mm
-The project is used for automatic question answering.
+# keras_mn
+Memory networks are used for automatic question answering.
 
 ## Requirements
 * nltk==3.2.3
